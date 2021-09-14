@@ -13,3 +13,11 @@ Step 4: Download mFogSim.zip extract it and import it as omnet++ project into om
 Step 5: Add Inet as reference in project
 
 Go into testing or example folder of this newly created project and play with sample applications and example simulations.
+
+
+**Publication**
+
+T. Qayyum, Z. Trabelsi, A. W. Malik and K. Hayawi, "Multi-Level Resource Sharing Framework Using Collaborative Fog Environment for Smart Cities," in IEEE Access, vol. 9, pp. 21859-21869, 2021, doi: 10.1109/ACCESS.2021.3054420.
+
+https://ieeexplore.ieee.org/document/9335598
+
